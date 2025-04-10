@@ -1,0 +1,8 @@
+# requirements.txt
+fastapi==0.110.0
+uvicorn==0.29.0
+pip-audit==2.7.0
+pipdeptree==2.13.0
+pdfkit==1.0.0
+requests==2.31.0
+pydantic==2.6.4
